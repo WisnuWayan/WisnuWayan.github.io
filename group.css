@@ -131,27 +131,9 @@ body {
     height: 5px;
     position: absolute;
   }
-  .frame1-line2 {
-    top: 250.5px;
-    left: 1696.5px;
-    width: 41px;
-    height: 1px;
-    position: absolute;
-  }
-  .frame1-line3 {
-    top: 233.5px;
-    left: 1696.5px;
-    width: 41px;
-    height: 1px;
-    position: absolute;
-  }
-  .frame1-line4 {
-    top: 267.5px;
-    left: 1696.5px;
-    width: 41px;
-    height: 1px;
-    position: absolute;
-  }
+
+
+
   .frame1-vector2 {
     top: 921.5px;
     left: 960.5px;
